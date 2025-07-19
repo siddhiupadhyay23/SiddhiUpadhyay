@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Siddhi Upadhyay </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;UI%2FUX+Designer+%7C+React+Enthusiast;Learning+MongoDB+and+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;UI%2FUX+Designer+%7C+;" alt="Typing SVG" />
 </p>
 
 <p align="center">
