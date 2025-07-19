@@ -1,62 +1,51 @@
 <h1 align="center">Hi there, I'm Siddhi Upadhyay! 👋</h1>
 
-<h3 align="center">🚀 Computer Engineering | Web Developer | UI/UX Enthusiast</h3>
-
 <p align="center">
-🎓 Student at Parul University <br/>
-💻 Passionate about Full-Stack Development & AI <br/>
-🌱 Currently learning React, Node.js, and more!
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhiupadhyay23&label=Profile%20views&color=0e75b6&style=flat" alt="siddhiupadhyay" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Aspiring+Full-Stack+Developer;UI%2FUX+Enthusiast;Learning+React+%26+Node.js&center=true&width=440&height=45&color=ffcc70&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
 
-### 🛠️ Technologies & Tools:
+## 🏫 Computer Engineering Student
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/officel/48/react.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+🎓 CSE Student @ **Parul University**  
+💻 Passionate about building full-stack web apps  
+🌱 Currently learning React, Node.js, MongoDB  
+
+![Profile views](https://komarev.com/ghpvc/?username=siddhiupadhyay23&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### 🔧 Technologies & Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📫 Connect with Me:
+### 📫 Connect with Me
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/siddhi-upadhyay-392383304/"]target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+<p>
+  <a href="https://www.linkedin.com/in/siddhi-upadhyay-392383304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:siddhiup06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/siddhiupadhyay23" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>
-  </a>
-  <a href="mailto:siddhiup06@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhiupadhyay&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiupadhyay&layout=compact&theme=radical" />
-</p>
-
----
-
-> 🔍 *Always exploring new tech and building cool things!* 💡
