@@ -15,7 +15,6 @@
 - 🎓 I'm a Computer Engineering student at **Parul University**
 - 💻 Passionate about **Full-Stack Web Development**
 - 🎨 Exploring **UI/UX**, animations & user-centric design
-- 🔥 Currently learning: **React.js**, **MongoDB**, **Node.js**
 - 🧠 Always open to learning new tech & building projects
 
 ---
