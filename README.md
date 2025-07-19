@@ -39,7 +39,7 @@
   <a href="[https://linkedin.com/in/siddhiupadhyay"](https://www.linkedin.com/in/siddhi-upadhyay-392383304/) target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
-  <a href="https://github.com/siddhiupadhyay" target="_blank">
+  <a href="https://github.com/siddhiupadhyay23" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"/>
   </a>
   <a href="mailto:siddhiup06@gmail.com" target="_blank">
