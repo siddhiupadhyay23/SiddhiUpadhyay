@@ -36,31 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhiupadhyay23&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhiupadhyay23&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhiupadhyay23&theme=dracula&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhiupadhyay23&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 <p align="center">
